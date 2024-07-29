@@ -1,11 +1,11 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Board from "./components/Board";
+import logo from './logo.svg';
+import './App.css';
+import Game from './components/Game';
 
 function App() {
   return (
     <div>
-      <Board></Board>
+      <Game></Game>
     </div>
   );
 }
