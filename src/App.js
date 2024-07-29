@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Square from './components/Square';
+import logo from "./logo.svg";
+import "./App.css";
+import Board from "./components/Board";
 
 function App() {
   return (
     <div>
-      <Square></Square>
+      <Board></Board>
     </div>
   );
 }
